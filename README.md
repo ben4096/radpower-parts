@@ -21,7 +21,3 @@ Parts on bicycles can be safety-relevant. Everything here is provided **as is, w
 Models, drawings and instructions are released under
 [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE).
 You may use, machine, sell and modify them, provided you credit the author (ben4096) and share your modifications under the same licence.
-
-## En bref (français)
-
-Dépôt communautaire non officiel de modèles 3D (STEP) et de plans pour des pièces introuvables de vélos Rad Power Bikes. Chaque pièce a son dossier avec son propre README. Pièces fournies sans garantie : vérifiez les cotes avant usinage. Licence CC BY-SA 4.0 : réutilisation libre, avec mention de l'auteur et partage des modifications sous la même licence.
