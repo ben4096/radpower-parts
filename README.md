@@ -23,6 +23,21 @@ Made for the 2019 RadWagon 3. Other model years may differ: compare with your ow
 
 Give the STEP file and the PDF to a machine shop; they contain everything needed.
 
+### Pictures
+
+3D model (Onshape):
+
+![3D model of the RadWagon 3 hanger](radwagon-3-hanger/images/render-onshape.png)
+
+Machined parts, both sides:
+
+![Machined hangers, both sides](radwagon-3-hanger/images/photo-both-sides.jpg)
+
+Clearance hole with counterbore, and the M10 x 1.0 threaded hole:
+
+![Counterbored clearance hole](radwagon-3-hanger/images/photo-counterbore-closeup.jpg)
+![M10 x 1.0 threaded hole](radwagon-3-hanger/images/photo-thread-closeup.jpg)
+
 ## Disclaimer
 
 A derailleur hanger is a safety-relevant part of a bicycle. These files are provided **as is, without any warranty**. Check every dimension against your own bike and original part before machining, and use them at your own risk.
